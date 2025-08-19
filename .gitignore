@@ -1,0 +1,11 @@
+*.csv
+*.pbix
+*.db
+data/
+*.csv
+*.pbix
+*.db
+*.zip
+*.rar
+*.7z
+.DS_Store
