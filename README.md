@@ -4,7 +4,9 @@
 ##  Tools Used:
 
 Python
+
 SQL
+
 Power BI  
 
 ##  Skills Demonstrated :
