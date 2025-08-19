@@ -1,13 +1,15 @@
 ## Zomato Bangalore Restaurant Analysis
 
  
-## ** Tools Used**:
+##  Tools Used:
 
-Python, SQL, Power BI  
+Python
+SQL
+Power BI  
 
-## ** Skills Demonstrated**:
+##  Skills Demonstrated :
 
-Data Cleaning, Exploratory Data Analysis (EDA), SQL Querying, Data Visualization, Business Insights, DAX, Dashboarding  
+Data Cleaning, Fature Engineering, Exploratory Data Analysis (EDA), SQL Querying, Data Visualization, Business Insights, DAX , Dashboarding in PowerBI 
 
 ---
 
