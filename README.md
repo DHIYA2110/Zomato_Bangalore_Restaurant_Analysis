@@ -1,8 +1,13 @@
 ## Zomato Bangalore Restaurant Analysis
 
-** Domain**: Food & Restaurant  
-** Tools Used**: Python, SQL, Power BI  
-** Skills Demonstrated**: Data Cleaning, Exploratory Data Analysis (EDA), SQL Querying, Data Visualization, Business Insights, DAX, Dashboarding  
+ 
+## ** Tools Used**:
+
+Python, SQL, Power BI  
+
+## ** Skills Demonstrated**:
+
+Data Cleaning, Exploratory Data Analysis (EDA), SQL Querying, Data Visualization, Business Insights, DAX, Dashboarding  
 
 ---
 
