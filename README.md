@@ -146,7 +146,7 @@ Created a **2-page interactive dashboard** with DAX measures to summarize key in
 
 ---
 
-## 🧠 Skills Highlighted
+##  Skills Highlighted
 
 | Skill              | Tool/Method         |
 |-------------------|---------------------|
