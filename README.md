@@ -95,8 +95,8 @@ Data was imported into SQLite and queried using pandas.
 - Best locations by total restaurant count, average cost, and rating
 - Cuisine types ranked by rating and cost
 
-> **Insight**: *Microbreweries* and *Pubs* receive the highest customer engagement (votes).  
->  **Insight**: *Rajajinagar, Malleshwaram, Banashankari* have affordable yet top-rated restaurants.
+**Insight**: *Microbreweries* and *Pubs* receive the highest customer engagement (votes).  
+**Insight**: *Rajajinagar, Malleshwaram, Banashankari* have affordable yet top-rated restaurants.
 
 ---
 
