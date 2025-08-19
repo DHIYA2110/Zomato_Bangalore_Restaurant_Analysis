@@ -11,7 +11,21 @@ Power BI
 
 ##  Skills Demonstrated :
 
-Data Cleaning, Fature Engineering, Exploratory Data Analysis (EDA), SQL Querying, Data Visualization, Business Insights, DAX , Dashboarding in PowerBI 
+Data Cleaning
+
+Fature Engineering
+
+Exploratory Data Analysis (EDA)
+
+SQL Querying
+
+Data Visualization
+
+Business Insights
+
+DAX 
+
+Dashboarding in PowerBI 
 
 ---
 
