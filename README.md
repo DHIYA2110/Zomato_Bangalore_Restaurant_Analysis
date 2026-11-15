@@ -132,8 +132,7 @@ Created a **2-page interactive dashboard** with DAX measures to summarize key in
 - Restaurant count by location (Map)
 
 📁 _Dashboard not uploaded due to file size (100MB+)._  
-🔗 **[[Power BI Dashboard – View PDF or Report Link]( https://drive.google.com/file/d/16MpP9xaVBKIArWt4Wa_XzeNLpHFvsaR2/view?usp=sharing)](#)** *(Add your link here to PDF or hosted report)*
-
+🔗 **[[Power BI Dashboard – View PDF or Report Link]( https://drive.google.com/file/d/16MpP9xaVBKIArWt4Wa_XzeNLpHFvsaR2/view?usp=sharing)](#)
 ---
 
 ## 📈 Key Business Insights
